@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on writing unit tests with Chai, Mocha and Jest
 - 🌱 I’m currently learning Solidity and Ethereum based applications
 - 👯 I’m looking to collaborate on a Web3 project relating to DeFi and NFTs with a focus on sports
-- ⚡ Fun fact: I just discovered Mark Twain.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
